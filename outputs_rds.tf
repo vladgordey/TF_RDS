@@ -1,5 +1,5 @@
 //
-// Module: tf_aws_rds
+// Module: tf_rds
 //
 
 // Output the ID of the RDS instance
